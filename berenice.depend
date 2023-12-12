@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1670790211 source:c:\users\vini\desktop\berenice-gp7\berenice mansao maromba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1670793949 source:c:\users\vini\desktop\berenice mansao maromba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1670686077 source:d:\usuario\documentos\github\berenice-gp7\berenice mansao maromba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1670794894 source:c:\users\vini\desktop\berenice mansao maromba - copia\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670795004 c:\users\vini\desktop\berenice mansao maromba - copia\header.h
+
+1670794997 source:c:\users\vini\desktop\berenice mansao maromba - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670875825 source:c:\users\vini\desktop\berenice-gp7\ultima berenice gracas a deus\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670875807 c:\users\vini\desktop\berenice-gp7\ultima berenice gracas a deus\header.h
+
+1670875828 source:c:\users\vini\desktop\berenice-gp7\ultima berenice gracas a deus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670869483 source:d:\usuario\documentos\github\berenice-gp7\ultima berenice gracas a deus\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670868424 d:\usuario\documentos\github\berenice-gp7\ultima berenice gracas a deus\header.h
+
+1670869483 source:d:\usuario\documentos\github\berenice-gp7\ultima berenice gracas a deus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670882473 source:c:\users\dell\onedrive\Área de trabalho\berenice-gp7\ultima berenice gracas a deus\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1670881826 c:\users\dell\onedrive\Área de trabalho\berenice-gp7\ultima berenice gracas a deus\header.h
+
+1670882132 source:c:\users\dell\onedrive\Área de trabalho\berenice-gp7\ultima berenice gracas a deus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
